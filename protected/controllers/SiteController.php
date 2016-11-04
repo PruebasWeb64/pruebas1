@@ -108,7 +108,7 @@ class SiteController extends Controller
 	}
 
 	/**
-	 * Pruebas
+	 * Pruebas del sitio web 
 	 */
 	public function actionPruebas()
 	{
