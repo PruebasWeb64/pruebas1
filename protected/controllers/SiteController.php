@@ -106,4 +106,15 @@ class SiteController extends Controller
 		Yii::app()->user->logout();
 		$this->redirect(Yii::app()->homeUrl);
 	}
+
+	/**
+	 * Pruebas
+	 */
+	public function actionPruebas()
+	{
+		echo "Controlador para las pruebas";
+
+		die();
+	}
+}
 }
