@@ -117,4 +117,3 @@ class SiteController extends Controller
 		die();
 	}
 }
-}
